@@ -1,7 +1,7 @@
 controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
     animation.runImageAnimation(
     mySprite,
-    assets.animation`myAnim`,
+    assets.animation`myAnim0`,
     200,
     true
     )
